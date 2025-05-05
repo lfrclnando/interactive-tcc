@@ -7,7 +7,7 @@ Se trata de un chat interactivo que utiliza inteligencia artificial para respond
 <br>
 
 <p align="center">
-  <img alt="Chatbot" src="@gitHub/Gelato.png" width="100%">
+  <img alt="Chatbot" src="@gitHub/Chatbot.png" width="100%">
 </p>
 
 ---
